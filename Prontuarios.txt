@@ -1,0 +1,40 @@
+Aaaaaa aaaaaa aaaaaaa
+M
+30.000.000-1
+300.000.000-01
+Ateu
+Nada
+Bla bla bla bla
+Nenhum
+Bbbbbbb bbbbbbbb bbbbbbb
+M
+30.000.000-2
+300.000.000-03
+Cristao
+Abelhas
+Blb blb blb blb
+Remedio 1
+Ccccccccc ccccccc cccccc
+F
+30.000.000-3
+300.000.000-03
+Evangelico
+Poeira
+Blc blc blc blc
+Remedio 2 e 3
+Ddddddddd ddddddd dddddd
+F
+30.000.000-4
+300.000.000-04
+Muçulmano
+Cenouras
+Bld bld bld bld
+Remedio 5
+Eeeeeee eeeeeee eeeeee
+M
+30.000.000-5
+300.000.000-05
+Nada
+Borracha
+Ble ble ble ble
+Remedio 7 e 3

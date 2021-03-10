@@ -1,0 +1,28 @@
+Pedro Lima Rodolfo
+M
+10.000.000-1
+100.000.000-01
+59
+SP
+Sao Caetano do Sul
+Rua Ibirapora
+192
+Predio
+1503
+99999-999
+(99)9999-9999
+Cristao
+Joao Silva de Melo
+F
+10.000.000-2
+100.000.000-02
+34
+SP
+Sao Paulo
+Rua Theodoro Melo
+283
+Casa
+0
+99999-999
+(99)99999-9999
+Cristao

@@ -1,0 +1,67 @@
+B
+Lucas Pereira de Almeida
+20.000.000-1
+9
+O servico foi excelente
+12 11 2020
+B
+Pedro Joao da Silva
+20.000.000-2
+4
+O servico foi ruim
+12 11 2020
+A
+Joao Doria
+20.000.000-3
+8
+A consulta foi muito boa
+12 11 2020
+B
+Pedro Almeida dos Santos
+20.000.000-4
+7
+Foi razoavel
+12 11 2020
+C
+Pedro Henrique Silva
+20.000.000-5
+1
+O servico foi um lixo
+12 11 2020
+A
+Pedro Silva Souza
+20.000.000-6
+9
+Servico excelente
+12 11 2020
+B
+Ccccc ccccc ccccc
+20.000.000-7
+7
+X
+12 11 2020
+C
+Ppppp ppppp pppppp
+20.000.000-8
+2
+Servico prestado e muito ruim
+12 11 2020
+A
+Llll lllll lll
+20.000.000-9
+7
+O servico nao foi dos melhores
+12 11 2020
+C
+Iiiiiiiiiii iii iii
+20.000.001-0
+2
+X
+12 11 2020
+B
+Hhhhhhhh hhh hhhhh
+20.000.001-1
+7
+Servico bom
+12 11 2020
+

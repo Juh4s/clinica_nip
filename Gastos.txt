@@ -1,0 +1,56 @@
+A
+Porta
+150,35
+11 11 2020
+B
+Roda
+30,50
+11 11 2020
+C
+Vidro
+357,34
+11 11 2020
+C
+Cama
+324,12
+11 11 2020
+B
+Trampolim
+2734,55
+11 11 2020
+A
+Barbatana
+252,12
+11 11 2020
+B
+Caixa de ferramentas
+25,35
+11 11 2020
+B
+Mesa de escritorio
+3735,23
+12 11 2020
+C
+Cadeira de escritorio
+564,32
+12 11 2020
+A
+Chave de fenda
+822,25
+12 11 2020
+C
+Bixo de patas
+712,53
+12 11 2020
+A
+Pikachu o Pokemon mesmo
+82622,23
+13 11 2020
+A
+Telha de maraore
+632,20
+13 11 2020
+C
+Birimboca da parafuseta
+1263,52
+13 11 2020

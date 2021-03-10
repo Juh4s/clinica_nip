@@ -1,0 +1,128 @@
+B
+Nilson Izaias Papinho Oficial
+M
+00.000.000-1
+000.000.000-01
+35
+SP
+Sao Paulo
+Rua Punta Del Este
+82
+Casa
+0
+99999-999
+(99)9999-9999
+Medico
+4562,35
+A
+Isabella Maria dos Santos
+F
+00.000.000-2
+000.000.000-02
+41
+SP
+Sao Bernardo do Campo
+Rua Osvaldo Russi
+120
+Predio
+402
+99999-999
+(99)99999-9999
+Medico
+5124,84
+C
+Paola Marques Rosa da Silva
+F
+00.000.000-3
+000.000.000-03
+32
+SP
+Sao Caetano do Sul
+Rua General Humberto de Alencar Castelo Branco
+599
+Casa
+0
+99999-999
+(99)99999-9999
+Medico
+3863,64
+A
+Pedro Henrique da Rosa
+ND
+00.000.000-4
+000.000.000-04
+25
+SP
+Sao Paulo
+Rua Solimoes
+172
+Casa
+0
+99999-999
+(99)99999-9999
+Enfermeiro
+2352,83
+A
+Thaiz Martins de Azevedo
+F
+00.000.000-5
+000.000.000-05
+28
+SP
+Sao Paulo
+Rua Francisco Mainard
+572
+Predio
+1205
+99999-999
+(99)99999-9999
+Enfermeiro
+2725,23
+C
+Thiago Souza Theodoro
+M
+00.000.000-6
+000.000.000-06
+21
+SP
+Sao Paulo
+Rua Armando Bonilha
+121
+Casa
+0
+99999-999
+(99)99999-9999
+Enfermeiro
+1735,48
+B
+Lucas Juhas dos Santos
+M
+00.000.000-7
+000.000.000-07
+19
+SP
+Sao Paulo
+Rua Gian Paolo Cima
+27
+Casa
+0
+99999-999
+(99)99999-9999
+Enfermeiro
+1523,12
+B
+Pablo Marques de Melo
+M
+00.000.000-8
+000.000.000-08
+22
+SP
+Sao Caetano do Sul
+Rua Jeffrey Rosa
+541
+Predio
+511
+11111-111
+(11)11111-1111
+Enfermeiro
+1762,32
